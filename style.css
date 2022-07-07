@@ -274,11 +274,21 @@ select {
         margin: 0 8px;
     }
     select {
-        width: 165px;
+        width: 168px;
         padding: 12px 64px 12px 48px;
     }
     .top-footer {
         gap: 60px;
+    }
+    .social-media a {
+        display: flex;
+        justify-content: space-between;
+    }
+    .middle a {
+        font-size: 13px;
+    }
+    .right-footer a {
+        font-size: 13px;
     }
     .middle-footer {
         display: flex;
