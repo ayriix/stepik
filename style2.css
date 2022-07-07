@@ -393,26 +393,12 @@ select {
     select {
         width: 176px;
         padding: 12px 64px 12px 48px;
-        appearance: none;
-        -webkit-appearance: none;
     }
     .top-footer {
         gap: 60px;
     }
-    .middle-footer {
-        gap: 60px;
-    }
-    .middle-footer a {
-        padding: 60px;
-    }
-    .right-footer a {
-        padding: 60px;
-    }
     .bottom-footer {
         gap: 60px;
-    }
-    .bottom-footer a {
-        padding: 60px;
     }
     .block {
         margin: 40px 0 40px 40px;
