@@ -359,15 +359,57 @@ select {
     .card-second {
         width: 370px;
     }
+    .inner-footer {
+        width: 95%;
+        margin: 0 8px;
+    }
+    select {
+        width: 176px;
+        padding: 12px 64px 12px 48px;
+    }
+    .top-footer {
+        gap: 60px;
+    }
+    .bottom-footer {
+        gap: 60px;
+    }
 }
 @media only screen and (max-width: 840px) and (hover: none) {
     .card-second {
         width: 350px;
     }
+    .inner-footer {
+        width: 95%;
+        margin: 0 8px;
+    }
+    select {
+        width: 176px;
+        padding: 12px 64px 12px 48px;
+    }
+    .top-footer {
+        gap: 60px;
+    }
+    .bottom-footer {
+        gap: 60px;
+    }
 }
 @media only screen and (max-width: 790px) and (hover: none) {
     .card-second {
         width: 340px;
+    }
+    .inner-footer {
+        width: 95%;
+        margin: 0 8px;
+    }
+    select {
+        width: 176px;
+        padding: 12px 64px 12px 48px;
+    }
+    .top-footer {
+        gap: 60px;
+    }
+    .bottom-footer {
+        gap: 60px;
     }
 }
 @media only screen and (max-width: 768px) and (hover: none) {
