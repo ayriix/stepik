@@ -443,14 +443,18 @@ select {
     }
      .top-footer a {
         gap: 60px;
-        padding-top: 60px;
+        padding-top: 30px;
+    }
+    .middle-footer {
+        gap: 60px;
+        padding-right: 30px;
     }
     .bottom-footer {
         gap: 60px;
     }
     .bottom-footer a {
         gap: 60px;
-        padding-top: 60px;
+        padding-top: 30px;
     }
     .block {
         margin: 40px 0 40px 40px;
