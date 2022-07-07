@@ -280,14 +280,8 @@ select {
     .top-footer {
         gap: 60px;
     }
-    .top-footer a {
-        padding: 60px;
-    }
     .bottom-footer {
         gap: 60px;
-    }
-    .bottom-footer a {
-        padding: 60px;
     }
 }
 @media only screen and (max-width: 648px) and (hover: none) {
