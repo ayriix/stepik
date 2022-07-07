@@ -393,6 +393,8 @@ select {
     select {
         width: 176px;
         padding: 12px 64px 12px 48px;
+        appearance: none;
+        -webkit-appearance: none;
     }
     .top-footer {
         gap: 60px;
