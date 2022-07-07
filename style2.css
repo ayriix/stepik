@@ -445,6 +445,9 @@ select {
         gap: 60px;
         padding-top: 10px;
     }
+    .social-media a {
+        gap: 15px;
+    }
     .middle-footer {
         display: flex;
         justify-content: space-evenly;
