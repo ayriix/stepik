@@ -280,6 +280,17 @@ select {
     .top-footer {
         gap: 60px;
     }
+    .right-footer a {
+        font-size: 13px;
+    }
+    .middle a {
+        font-size: 13px;
+    }
+    .middle-footer {
+        display: flex;
+        justify-content: space-evenly;
+        row-gap: 60px;
+    }
     .bottom-footer {
         gap: 60px;
     }
