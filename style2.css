@@ -447,8 +447,8 @@ select {
     }
     .middle-footer {
         display: flex;
-        justify-content: space-between;
-        gap: 60px;
+        justify-content: space-evenly;
+        row-gap: 60px;
     }
     .bottom-footer {
         gap: 60px;
