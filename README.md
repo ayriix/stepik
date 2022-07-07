@@ -1,3 +1,3 @@
 # My graduation project
-- Page [https://ayriix.github.io/stepik/] is here
+- Page [is here](https://ayriix.github.io/stepik/)
 - Fully responsive
