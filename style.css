@@ -285,10 +285,10 @@ select {
         justify-content: space-between;
     }
     .middle a {
-        font-size: 13px;
+        font-size: 12px;
     }
     .right-footer a {
-        font-size: 13px;
+        font-size: 12px;
     }
     .middle-footer {
         display: flex;
