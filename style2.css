@@ -398,20 +398,21 @@ select {
     }
     .top-footer {
         gap: 60px;
-        padding-top: 20px;
     }
     .middle-footer {
         gap: 60px;
     }
     .middle-footer a {
-        padding-top: 20px;
+        padding: 60px;
     }
     .right-footer a {
-        padding-top: 20px;
+        padding: 60px;
     }
     .bottom-footer {
         gap: 60px;
-        padding-top: 20px;
+    }
+    .bottom-footer a {
+        padding: 60px;
     }
     .block {
         margin: 40px 0 40px 40px;
